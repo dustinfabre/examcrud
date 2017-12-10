@@ -1,0 +1,20 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+
+
+.card {
+  padding: 20px;
+  border-radius: 4px;
+  border: 1px solid #e6ebf5;
+  background-color: #fff;
+  overflow: hidden;
+  box-shadow: 0 2px 12px 0 rgba(0,0,0,.1);
+  color: #2d2f33;
+}
